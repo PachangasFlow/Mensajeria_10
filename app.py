@@ -10,7 +10,7 @@ app = Flask(__name__)
 
 app.secret_key = 'mi clave de secreta'+str(datetime.now)
 
-
+#
 #########Recuperar la informacion desde los formularios#####
 ###Recuperar y Almancenar los Registros de usuario######################
 
